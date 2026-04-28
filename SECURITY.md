@@ -1,0 +1,1 @@
+﻿The swapper uses minimal memory with no known vulnerabilities.
