@@ -1,0 +1,1 @@
+﻿Be kind and respectful in discussions and pull requests.
