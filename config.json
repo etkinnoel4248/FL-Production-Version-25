@@ -1,0 +1,16 @@
+{
+  "suite_config": {
+    "version": "25.1.0",
+    "edition": "all_plugins",
+    "offline_mode": true
+  },
+  "optimizations": {
+    "asio_buffer_lock": true,
+    "cpu_priority": "high",
+    "telemetry_blocking": true
+  },
+  "paths": {
+    "fl_install": "C:\\Program Files\\Image-Line\\FL Studio 25",
+    "vst_plugins": "C:\\Program Files\\Common Files\\VST3"
+  }
+}
